@@ -1,0 +1,13 @@
+
+# Update Format
+# {
+#   "firstname": "Updated Firstname",
+#   "lastname": "Updated Lastname",
+#   "email": "updated.email@example.com",
+#   "preferences": {"theme": "light"},
+#   "previous_calls": [],
+#   "accounts": [],
+#   "audio_path": "/path/to/updated_call_audio.mp3",
+#   "transcript_path": "/path/to/updated_transcript.txt",
+#   "sol_path": "/path/to/updated_recommendations.json"
+# }

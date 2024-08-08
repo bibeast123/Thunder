@@ -1,0 +1,19 @@
+18/07/2024 12:16:34 :: ========= Starting App =========
+18/07/2024 12:16:37 :: Succesfully got user John
+18/07/2024 12:16:37 :: solutions already exists
+18/07/2024 12:16:37 :: Summary already exists
+18/07/2024 12:16:37 :: Caletgories already exists
+18/07/2024 12:16:37 :: Successfully got solutions for John at path ./iic-group10/backend/db/created/solutions_1.txt
+18/07/2024 12:16:37 :: Successfully got a summary for John at path ./iic-group10/backend/db/created/solutions_1.txt
+18/07/2024 12:16:37 :: Urgency already exists
+18/07/2024 12:16:37 :: Successfully got categories for John at path ./iic-group10/backend/db/created/issues.txt
+18/07/2024 12:16:38 :: Succesfully got user John
+18/07/2024 12:16:38 :: solutions already exists
+18/07/2024 12:16:38 :: Successfully got solutions for John at path ./iic-group10/backend/db/created/solutions_1.txt
+18/07/2024 12:16:38 :: Summary already exists
+18/07/2024 12:16:38 :: Caletgories already exists
+18/07/2024 12:16:38 :: Successfully got a summary for John at path ./iic-group10/backend/db/created/solutions_1.txt
+18/07/2024 12:16:38 :: Urgency already exists
+18/07/2024 12:16:38 :: Successfully got categories for John at path ./iic-group10/backend/db/created/issues.txt
+18/07/2024 14:27:35 :: ========= Starting App =========
+18/07/2024 14:27:42 :: ========= Starting App =========

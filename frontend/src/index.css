@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-att-color {
+  background-color: #1A2027
+}
+#root{    
+  margin-left: 0 !important;
+  padding: 0 !important;}
